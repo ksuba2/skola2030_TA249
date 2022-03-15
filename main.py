@@ -1,0 +1,2 @@
+print("Skolotājs - Konstantīns Šuba")
+
