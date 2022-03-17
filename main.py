@@ -1,8 +1,9 @@
 print("Skolotājs - Konstantīns Šuba")
 
 
-print ("Skolniece - Alisa R.")
+print("Skolniece - Nadežda K.")
 
+print ("Skolniece - Alisa R.")
 
 print("Skolniece - Valerija F.")
 
